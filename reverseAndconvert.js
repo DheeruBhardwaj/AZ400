@@ -6,4 +6,4 @@ let firstDate = "what's your perfect first date".split("")
 .reverse()
 .join();
 
-console.log(firstDate);
+console.log(firstDate); 
